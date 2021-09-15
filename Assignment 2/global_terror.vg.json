@@ -14,7 +14,7 @@
       },
       {
         "data": {
-          "url": "https://raw.githubusercontent.com/KaneSec/vega_lite/main/2_symbol_map/data/earthquake.csv"
+          "url": "data/globalterrorismdb_0718dist.csv"
         },
         "mark": {"type": "circle", "tooltip": {"content": "data"}},
         "encoding": {
